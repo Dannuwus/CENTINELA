@@ -1,0 +1,34 @@
+[2026-09-22 08:56:13] [INFO] Aplicación iniciada correctamente
+[2026-09-22 08:56:27] [INFO] Detección de personas desactivada
+[2026-09-22 08:56:35] [INFO] Lectura de placas OCR activada
+[2026-09-22 08:56:36] [INFO] Lectura de placas OCR desactivada
+[2026-09-22 08:56:39] [INFO] Modo dual stream desactivado
+[2026-09-22 09:02:14] [INFO] Aplicación cerrada por el usuario
+[2026-09-22 09:02:21] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:02:21] [WARNING] La sesión anterior no se cerró correctamente (último log: [2026-09-22 09:02:21] [INFO] Aplicación iniciada correctamente)
+[2026-09-22 09:02:21] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:02:51] [INFO] Aplicación cerrada por el usuario
+[2026-09-22 09:03:09] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:05:11] [WARNING] La sesión anterior no se cerró correctamente (último log: [2026-09-22 09:03:09] [INFO] Aplicación iniciada correctamente)
+[2026-09-22 09:05:11] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:07:10] [WARNING] La sesión anterior no se cerró correctamente (último log: [2026-09-22 09:05:11] [INFO] Aplicación iniciada correctamente)
+[2026-09-22 09:07:10] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:08:00] [INFO] Aplicación cerrada por el usuario
+[2026-09-22 09:11:36] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:12:23] [WARNING] La sesión anterior no se cerró correctamente (último log: [2026-09-22 09:11:36] [INFO] Aplicación iniciada correctamente)
+[2026-09-22 09:12:23] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:14:17] [INFO] Aplicación cerrada por el usuario
+[2026-09-22 09:14:33] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:17:41] [WARNING] La sesión anterior no se cerró correctamente (último log: [2026-09-22 09:14:33] [INFO] Aplicación iniciada correctamente)
+[2026-09-22 09:17:41] [INFO] Aplicación iniciada correctamente
+[2026-09-22 09:17:45] [INFO] [CH1] USB2.0 HD UVC WebCam (Puerto 0) en línea. Transmitiendo video...
+[2026-09-22 09:17:45] [DEBUG] Iniciando bucle de captura...
+[2026-09-22 09:17:55] [INFO] Detección de personas activada
+[2026-09-22 09:17:56] [INFO] [CH1] [NUEVO OBJETIVO] Persona #1 (85%)
+[2026-09-22 09:17:57] [INFO] [CH1] [CAPTURA AUTOMÁTICA] Persona #1 (85%)
+[2026-09-22 09:18:00] [INFO] Detección de personas desactivada
+[2026-09-22 09:18:11] [INFO] Aplicación cerrada por el usuario
+[2026-09-22 10:09:20] [INFO] Aplicación iniciada correctamente
+[2026-09-22 10:12:05] [INFO] Lectura de placas OCR activada
+[2026-09-22 10:12:06] [INFO] Lectura de placas OCR desactivada
+[2026-09-22 10:12:58] [INFO] Aplicación cerrada por el usuario

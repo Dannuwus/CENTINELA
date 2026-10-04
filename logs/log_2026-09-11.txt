@@ -1,0 +1,67 @@
+[2026-09-11 07:19:29] [INFO] Aplicación iniciada correctamente
+[2026-09-11 07:19:48] [INFO] Modo dual stream activado
+[2026-09-11 07:19:49] [INFO] Modo dual stream desactivado
+[2026-09-11 07:19:59] [DEBUG] Cámaras detectadas: ['USB2.0 HD UVC WebCam (Puerto 0)']
+[2026-09-11 07:20:03] [INFO] Modo dual stream activado
+[2026-09-11 07:20:03] [INFO] Modo dual stream desactivado
+[2026-09-11 07:20:05] [DEBUG] Cámaras detectadas: ['USB2.0 HD UVC WebCam (Puerto 0)']
+[2026-09-11 07:20:07] [DEBUG] Cámaras detectadas: ['USB2.0 HD UVC WebCam (Puerto 0)']
+[2026-09-11 07:20:59] [INFO] Sonidos desactivados
+[2026-09-11 07:21:00] [INFO] Sonidos activados
+[2026-09-11 07:21:06] [DEBUG] Zoom ajustado a 1.2x en canal 1
+[2026-09-11 07:21:06] [DEBUG] Zoom ajustado a 1.3x en canal 1
+[2026-09-11 07:21:06] [DEBUG] Zoom ajustado a 1.5x en canal 1
+[2026-09-11 07:21:06] [DEBUG] Zoom ajustado a 1.7x en canal 1
+[2026-09-11 07:21:06] [DEBUG] Zoom ajustado a 2.7x en canal 1
+[2026-09-11 07:21:06] [DEBUG] Zoom ajustado a 3.5x en canal 1
+[2026-09-11 07:21:07] [DEBUG] Zoom ajustado a 4.0x en canal 1
+[2026-09-11 07:22:03] [INFO] Aplicación cerrada por el usuario
+[2026-09-11 07:24:25] [INFO] Aplicación iniciada correctamente
+[2026-09-11 07:24:38] [DEBUG] Cámaras detectadas: ['USB2.0 HD UVC WebCam (Puerto 0)']
+[2026-09-11 07:28:34] [INFO] Aplicación cerrada por el usuario
+[2026-09-11 07:28:35] [INFO] Aplicación iniciada correctamente
+[2026-09-11 07:28:47] [INFO] [CH1] USB2.0 HD UVC WebCam (Puerto 0) en línea. Transmitiendo video...
+[2026-09-11 07:28:47] [DEBUG] Iniciando bucle de captura...
+[2026-09-11 07:28:54] [INFO] Modo dual stream activado
+[2026-09-11 07:28:55] [INFO] Modo dual stream desactivado
+[2026-09-11 07:29:10] [INFO] Detección de personas desactivada
+[2026-09-11 07:29:10] [INFO] Detección de carros desactivada
+[2026-09-11 07:29:12] [INFO] Detección de botes desactivada
+[2026-09-11 07:29:13] [INFO] Detección de helicópteros desactivada
+[2026-09-11 07:29:17] [INFO] Modo dual stream activado
+[2026-09-11 07:29:18] [INFO] Modo dual stream desactivado
+[2026-09-11 07:29:20] [INFO] [CH1] USB2.0 HD UVC WebCam (Puerto 0) en línea. Transmitiendo video...
+[2026-09-11 07:29:20] [DEBUG] Iniciando bucle de captura...
+[2026-09-11 07:29:27] [INFO] Detección YOLO activada
+[2026-09-11 07:29:31] [INFO] Detección de personas activada
+[2026-09-11 07:29:32] [INFO] [CH1] [NUEVO OBJETIVO] Persona #1 (91%)
+[2026-09-11 07:29:32] [INFO] [CH1] [CAPTURA AUTOMÁTICA] Persona #1 (91%)
+[2026-09-11 07:29:36] [INFO] Detección de personas desactivada
+[2026-09-11 07:29:37] [INFO] Detección de personas activada
+[2026-09-11 07:29:38] [INFO] Detección de personas desactivada
+[2026-09-11 07:29:38] [INFO] Detección de personas activada
+[2026-09-11 07:29:39] [INFO] Detección de personas desactivada
+[2026-09-11 07:29:39] [INFO] Detección de personas activada
+[2026-09-11 07:29:40] [INFO] Detección de personas desactivada
+[2026-09-11 07:29:41] [INFO] Detección de personas activada
+[2026-09-11 07:29:51] [DEBUG] Zoom ajustado a 2.0x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.8x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.7x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.6x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.5x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.4x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.3x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.2x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.1x en canal 1
+[2026-09-11 07:29:55] [DEBUG] Zoom ajustado a 1.0x en canal 1
+[2026-09-11 07:30:03] [INFO] Modo dual stream activado
+[2026-09-11 07:30:06] [INFO] [CH2] USB2.0 HD UVC WebCam (Puerto 0) en línea. Transmitiendo video...
+[2026-09-11 07:30:06] [DEBUG] Iniciando bucle de captura...
+[2026-09-11 07:30:06] [INFO] [CH2] [NUEVO OBJETIVO] Persona #1 (92%)
+[2026-09-11 07:30:06] [INFO] [CH2] [CAPTURA AUTOMÁTICA] Persona #1 (92%)
+[2026-09-11 07:30:11] [INFO] Detección YOLO desactivada
+[2026-09-11 07:30:12] [INFO] Detección YOLO activada
+[2026-09-11 07:30:22] [INFO] Sonidos desactivados
+[2026-09-11 07:30:27] [DEBUG] Atajo usado: Ctrl+1
+[2026-09-11 07:30:28] [DEBUG] Atajo usado: Ctrl+2
+[2026-09-11 07:30:30] [INFO] Aplicación cerrada por el usuario

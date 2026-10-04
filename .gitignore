@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos pesados de modelos de visión/IA
+*.pt
+*.onnx
